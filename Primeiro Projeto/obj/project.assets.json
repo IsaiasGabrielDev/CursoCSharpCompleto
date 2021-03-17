@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isaias\\Documents\\Udemy estudos\\C# Workspace\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
+      "projectUniqueName": "C:\\Users\\Isaias\\Documents\\Udemy estudos\\Workspace C#\\Curso C# Completo OO\\Primeiro Projeto\\Primeiro Projeto.csproj",
       "projectName": "Primeiro Projeto",
-      "projectPath": "C:\\Users\\Isaias\\Documents\\Udemy estudos\\C# Workspace\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
+      "projectPath": "C:\\Users\\Isaias\\Documents\\Udemy estudos\\Workspace C#\\Curso C# Completo OO\\Primeiro Projeto\\Primeiro Projeto.csproj",
       "packagesPath": "C:\\Users\\Isaias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isaias\\Documents\\Udemy estudos\\C# Workspace\\Primeiro Projeto\\Primeiro Projeto\\obj\\",
+      "outputPath": "C:\\Users\\Isaias\\Documents\\Udemy estudos\\Workspace C#\\Curso C# Completo OO\\Primeiro Projeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Isaias\\AppData\\Roaming\\NuGet\\NuGet.Config",

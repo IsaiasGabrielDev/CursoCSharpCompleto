@@ -11,3 +11,16 @@ C:\Users\Isaias\Documents\Udemy estudos\C# Workspace\Primeiro Projeto\Primeiro P
 C:\Users\Isaias\Documents\Udemy estudos\C# Workspace\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.dll
 C:\Users\Isaias\Documents\Udemy estudos\C# Workspace\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.pdb
 C:\Users\Isaias\Documents\Udemy estudos\C# Workspace\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.genruntimeconfig.cache
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.exe
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.deps.json
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.runtimeconfig.json
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.runtimeconfig.dev.json
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.dll
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.pdb
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.csprojAssemblyReference.cache
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.AssemblyInfoInputs.cache
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.AssemblyInfo.cs
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.dll
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.pdb
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\Curso C# Completo OO\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.genruntimeconfig.cache
