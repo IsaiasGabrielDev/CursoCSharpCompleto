@@ -124,6 +124,72 @@ namespace Primeiro_Projeto
 
         */
 
+        /*
+        static void Main(string[] args) //Resolvendo o problema com OO chamando métodos.
+        {
+            Triangulo x, y;
+
+            x = new Triangulo();
+            y = new Triangulo();
+            double areax, areay = 0;
+
+            Console.WriteLine("Entre com as medidas do triangulo X: ");
+            x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine("Entre com as medidas do triangulo Y: ");
+            y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+
+
+
+            areax = x.Calc(); //chamando método usando o objeto x
+            areay = y.Calc(); // chamando o metodo calc usando o objeto y
+
+            Console.WriteLine("Área de x = " + areax.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("Área de y = " + areay.ToString("F4", CultureInfo.InvariantCulture));
+
+            if (areax > areay)
+            {
+                Console.WriteLine("A maior Área é a de X");
+            }
+            else { Console.WriteLine("A maior Área é a de Y"); }
+        }*/
+
+        
+
+        /*static void Main(string[] args) //Capitulo Membros estáticos, //Resolvendo o problema com OO chamando método estáticos.
+        {
+            
+            Console.Write("Entre com o valor do raio: ");
+            double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double circ = Calculadora.Circunferencia(raio);
+            double volume = Calculadora.Volume(raio);
+            Console.WriteLine("Circunferência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Volume: " + volume.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Valor de Pi: " + Calculadora.Pi.ToString("F2", CultureInfo.InvariantCulture));
+
+        }
+        */
+
+        /*
+        static void Main(string[] args) //Capitulo Membros estáticos, //Resolvendo o problema com OO chamando método estáticos.
+        {
+            Console.WriteLine("Qual é a cotação do dólar? ");
+            double cotacao = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Quantos dólares você irá comprar? ");
+            double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double result = ConversordeMoeda.DolarparaReal(valor, cotacao);
+            Console.WriteLine("O valor a ser pago em reais = " + result.ToString("F2", CultureInfo.InvariantCulture));
+        }
+        */
+
+
+
+
     }
 }
 
